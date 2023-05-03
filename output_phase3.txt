@@ -1,0 +1,1081 @@
+Universal counter initialized:
+
+UC: 0
+
+PTR: 0
+
+IN SIMULATION
+IOI : 1
+
+IN CH1....reading data from card reader
+Read value : $AMJ000100050002
+
+UC : 5
+
+IN SIMULATION
+IOI : 1
+
+IN CH1....reading data from card reader
+Read value : GD10PD10PD10H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 10
+
+IN SIMULATION
+IOI : 1
+
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 15
+
+IN SIMULATION
+IOI : 1
+
+IN CH1....reading data from card reader
+Read value : HELLO-WORLD
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 20
+
+IN SIMULATION
+IOI : 1
+
+IN CH1....reading data from card reader
+Read value : $END0001
+
+UC : 25
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 8
+
+Getting cards from IB
+Found data in IFQ....Data is GD10PD10PD10H
+
+UC : 27
+IN CH1....reading data from card reader
+Read value : $AMJ000200060001
+
+UC : 32
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is HELLO-WORLD
+
+UC : 34
+IN CH1....reading data from card reader
+Read value : GD10LR30SR20PD20H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 39
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD10LR30SR20PD20H
+
+UC : 41
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 46
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 48
+IN CH1....reading data from card reader
+Read value : VIT
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 53
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is VIT
+
+UC : 55
+IN CH1....reading data from card reader
+Read value : $END0002
+
+UC : 60
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 17
+PTR: 110
+page_no: 4
+PTR: 110
+UC : 62
+IN CH1....reading data from card reader
+Read value : $AMJ000400140003
+
+UC : 67
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 69
+IN CH1....reading data from card reader
+Read value : GD10GD20GD30GD40LR10CO20BT08PD30PD40H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 74
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD10GD20GD30GD40LR10CO20BT08PD30PD40H
+
+UC : 76
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 81
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 83
+IN CH1....reading data from card reader
+Read value : 2
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 88
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 2
+
+UC : 90
+IN CH1....reading data from card reader
+Read value : 3
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 95
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 3
+
+UC : 97
+IN CH1....reading data from card reader
+Read value : 4
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 102
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 4
+
+UC : 104
+IN CH1....reading data from card reader
+Read value : -
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 109
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is -
+
+UC : 111
+IN CH1....reading data from card reader
+Read value : $END0004
+
+UC : 116
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 10
+PTR: 110
+UC : 118
+IN CH1....reading data from card reader
+Read value : $AMJ000500040001
+
+UC : 123
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 125
+IN CH1....reading data from card reader
+Read value : GD10GD20GD30GD40LR10CR20BT09PD30HPD40H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 130
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD10GD20GD30GD40LR10CR20BT09PD30HPD40H
+
+UC : 132
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 137
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 139
+IN CH1....reading data from card reader
+Read value : VIT
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 144
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is VIT
+
+UC : 146
+IN CH1....reading data from card reader
+Read value : VIIT
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 151
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is VIIT
+
+UC : 153
+IN CH1....reading data from card reader
+Read value : VIT VIIT NOT SAME
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 158
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is VIT VIIT NOT SAME
+
+UC : 160
+IN CH1....reading data from card reader
+Read value : VIT VIIT SAME
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 165
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is VIT VIIT SAME
+
+UC : 167
+IN CH1....reading data from card reader
+Read value : $END0005
+
+UC : 172
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 29
+PTR: 110
+UC : 174
+IN CH1....reading data from card reader
+Read value : $AMJ000500190001
+
+UC : 179
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 181
+IN CH1....reading data from card reader
+Read value : GD20GD30GD40GD50LR20CR30BT13CR40BT11PD50HPD40HPD30H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 186
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD20GD30GD40GD50LR20CR30BT13CR40BT11PD50HPD40HPD30H
+
+UC : 188
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 193
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 195
+IN CH1....reading data from card reader
+Read value : 2
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 200
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 2
+
+UC : 202
+IN CH1....reading data from card reader
+Read value : 2 4 6 8 10 12 14 16 18 20
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 207
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 2 4 6 8 10 12 14 16 18 20
+
+UC : 209
+IN CH1....reading data from card reader
+Read value : 3 6 9 12 15 18 21 24 27 30
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 214
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 3 6 9 12 15 18 21 24 27 30
+
+UC : 216
+IN CH1....reading data from card reader
+Read value : 4 8 12 16 20 24 28 32 36 40
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 221
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 4 8 12 16 20 24 28 32 36 40
+
+UC : 223
+IN CH1....reading data from card reader
+Read value : $END0005
+
+UC : 228
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 18
+PTR: 110
+UC : 230
+IN CH1....reading data from card reader
+Read value : $AMJ000100050001
+
+UC : 235
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 237
+IN CH1....reading data from card reader
+Read value : GD10PD10PD10H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 242
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD10PD10PD10H
+
+UC : 244
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 249
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 251
+IN CH1....reading data from card reader
+Read value : HELLO-WORLD
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 256
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is HELLO-WORLD
+
+UC : 258
+IN CH1....reading data from card reader
+Read value : $END0001
+
+UC : 263
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 22
+PTR: 110
+UC : 265
+IN CH1....reading data from card reader
+Read value : $AMJ000800060001
+
+UC : 270
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 272
+IN CH1....reading data from card reader
+Read value : GD10GD20PD10H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 277
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD10GD20PD10H
+
+UC : 279
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 284
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 286
+IN CH1....reading data from card reader
+Read value : $END0008
+
+UC : 291
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 14
+PTR: 110
+UC : 293
+IN CH1....reading data from card reader
+Read value : $AMJ000900140002
+
+UC : 298
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 300
+IN CH1....reading data from card reader
+Read value : GD10GD20GD30GD40LR10CR20BTqtPD30PD40H
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 305
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is GD10GD20GD30GD40LR10CR20BTqtPD30PD40H
+
+UC : 307
+IN CH1....reading data from card reader
+Read value : $DTA
+
+UC : 312
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+UC : 314
+IN CH1....reading data from card reader
+Read value : 2
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 319
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 2
+
+UC : 321
+IN CH1....reading data from card reader
+Read value : 3
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 326
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 3
+
+UC : 328
+IN CH1....reading data from card reader
+Read value : 4
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 333
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is 4
+
+UC : 335
+IN CH1....reading data from card reader
+Read value : -
+
+Pushing data in IBQ
+
+Filling IBQ
+UC : 340
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 9
+
+Getting cards from IB
+Found data in IFQ....Data is -
+
+UC : 342
+IN CH1....reading data from card reader
+Read value : $END0009
+
+UC : 347
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+Empty Buffers: 10
+Moving from drum to main memory
+page_no: 5
+PTR: 110
+UC : 349
+UC : 349
+
+IN SIMULATION
+IOI : 5
+
+IN CH3
+EOF found...Memory printing
+
+[0] : $$$$
+[1] : $$$$
+[2] : $$$$
+[3] : $$$$
+[4] : $$$$
+[5] : $$$$
+[6] : $$$$
+[7] : $$$$
+[8] : $$$$
+[9] : $$$$
+[10] : $$$$
+[11] : $$$$
+[12] : $$$$
+[13] : $$$$
+[14] : $$$$
+[15] : $$$$
+[16] : $$$$
+[17] : $$$$
+[18] : $$$$
+[19] : $$$$
+[20] : $$$$
+[21] : $$$$
+[22] : $$$$
+[23] : $$$$
+[24] : $$$$
+[25] : $$$$
+[26] : $$$$
+[27] : $$$$
+[28] : $$$$
+[29] : $$$$
+[30] : $$$$
+[31] : $$$$
+[32] : $$$$
+[33] : $$$$
+[34] : $$$$
+[35] : $$$$
+[36] : $$$$
+[37] : $$$$
+[38] : $$$$
+[39] : $$$$
+[40] : HELL
+[41] : O-WO
+[42] : RLD 
+[43] : $$$$
+[44] : $$$$
+[45] : $$$$
+[46] : $$$$
+[47] : $$$$
+[48] : $$$$
+[49] : $$$$
+[50] : GD10
+[51] : PD10
+[52] : PD10
+[53] : H @ 
+[54] : $$$$
+[55] : $$$$
+[56] : $$$$
+[57] : $$$$
+[58] : $$$$
+[59] : $$$$
+[60] : $$$$
+[61] : $$$$
+[62] : $$$$
+[63] : $$$$
+[64] : $$$$
+[65] : $$$$
+[66] : $$$$
+[67] : $$$$
+[68] : $$$$
+[69] : $$$$
+[70] : $$$$
+[71] : $$$$
+[72] : $$$$
+[73] : $$$$
+[74] : $$$$
+[75] : $$$$
+[76] : $$$$
+[77] : $$$$
+[78] : $$$$
+[79] : $$$$
+[80] : $$$$
+[81] : $$$$
+[82] : $$$$
+[83] : $$$$
+[84] : $$$$
+[85] : $$$$
+[86] : $$$$
+[87] : $$$$
+[88] : $$$$
+[89] : $$$$
+[90] : $$$$
+[91] : $$$$
+[92] : $$$$
+[93] : $$$$
+[94] : $$$$
+[95] : $$$$
+[96] : $$$$
+[97] : $$$$
+[98] : $$$$
+[99] : $$$$
+[100] : GD10
+[101] : PD10
+[102] : PD10
+[103] : H @ 
+[104] : $$$$
+[105] : $$$$
+[106] : $$$$
+[107] : $$$$
+[108] : $$$$
+[109] : $$$$
+[110] : $105
+[111] : $104
+[112] : $$$$
+[113] : $$$$
+[114] : $$$$
+[115] : $$$$
+[116] : $$$$
+[117] : $$$$
+[118] : $$$$
+[119] : $$$$
+[120] : $$$$
+[121] : $$$$
+[122] : $$$$
+[123] : $$$$
+[124] : $$$$
+[125] : $$$$
+[126] : $$$$
+[127] : $$$$
+[128] : $$$$
+[129] : $$$$
+[130] : $$$$
+[131] : $$$$
+[132] : $$$$
+[133] : $$$$
+[134] : $$$$
+[135] : $$$$
+[136] : $$$$
+[137] : $$$$
+[138] : $$$$
+[139] : $$$$
+[140] : GD10
+[141] : PD10
+[142] : PD10
+[143] : H @ 
+[144] : $$$$
+[145] : $$$$
+[146] : $$$$
+[147] : $$$$
+[148] : $$$$
+[149] : $$$$
+[150] : $$$$
+[151] : $$$$
+[152] : $$$$
+[153] : $$$$
+[154] : $$$$
+[155] : $$$$
+[156] : $$$$
+[157] : $$$$
+[158] : $$$$
+[159] : $$$$
+[160] : $$$$
+[161] : $$$$
+[162] : $$$$
+[163] : $$$$
+[164] : $$$$
+[165] : $$$$
+[166] : $$$$
+[167] : $$$$
+[168] : $$$$
+[169] : $$$$
+[170] : GD10
+[171] : PD10
+[172] : PD10
+[173] : H @ 
+[174] : $$$$
+[175] : $$$$
+[176] : $$$$
+[177] : $$$$
+[178] : $$$$
+[179] : $$$$
+[180] : GD10
+[181] : PD10
+[182] : PD10
+[183] : H @ 
+[184] : $$$$
+[185] : $$$$
+[186] : $$$$
+[187] : $$$$
+[188] : $$$$
+[189] : $$$$
+[190] : $$$$
+[191] : $$$$
+[192] : $$$$
+[193] : $$$$
+[194] : $$$$
+[195] : $$$$
+[196] : $$$$
+[197] : $$$$
+[198] : $$$$
+[199] : $$$$
+[200] : $$$$
+[201] : $$$$
+[202] : $$$$
+[203] : $$$$
+[204] : $$$$
+[205] : $$$$
+[206] : $$$$
+[207] : $$$$
+[208] : $$$$
+[209] : $$$$
+[210] : $$$$
+[211] : $$$$
+[212] : $$$$
+[213] : $$$$
+[214] : $$$$
+[215] : $$$$
+[216] : $$$$
+[217] : $$$$
+[218] : $$$$
+[219] : $$$$
+[220] : GD10
+[221] : PD10
+[222] : PD10
+[223] : H @ 
+[224] : $$$$
+[225] : $$$$
+[226] : $$$$
+[227] : $$$$
+[228] : $$$$
+[229] : $$$$
+[230] : $$$$
+[231] : $$$$
+[232] : $$$$
+[233] : $$$$
+[234] : $$$$
+[235] : $$$$
+[236] : $$$$
+[237] : $$$$
+[238] : $$$$
+[239] : $$$$
+[240] : $$$$
+[241] : $$$$
+[242] : $$$$
+[243] : $$$$
+[244] : $$$$
+[245] : $$$$
+[246] : $$$$
+[247] : $$$$
+[248] : $$$$
+[249] : $$$$
+[250] : $$$$
+[251] : $$$$
+[252] : $$$$
+[253] : $$$$
+[254] : $$$$
+[255] : $$$$
+[256] : $$$$
+[257] : $$$$
+[258] : $$$$
+[259] : $$$$
+[260] : $$$$
+[261] : $$$$
+[262] : $$$$
+[263] : $$$$
+[264] : $$$$
+[265] : $$$$
+[266] : $$$$
+[267] : $$$$
+[268] : $$$$
+[269] : $$$$
+[270] : $$$$
+[271] : $$$$
+[272] : $$$$
+[273] : $$$$
+[274] : $$$$
+[275] : $$$$
+[276] : $$$$
+[277] : $$$$
+[278] : $$$$
+[279] : $$$$
+[280] : $$$$
+[281] : $$$$
+[282] : $$$$
+[283] : $$$$
+[284] : $$$$
+[285] : $$$$
+[286] : $$$$
+[287] : $$$$
+[288] : $$$$
+[289] : $$$$
+[290] : GD10
+[291] : PD10
+[292] : PD10
+[293] : H @ 
+[294] : $$$$
+[295] : $$$$
+[296] : $$$$
+[297] : $$$$
+[298] : $$$$
+[299] : $$$$
+IN CH2
+Current track: 28
+Empty Buffers: 9
