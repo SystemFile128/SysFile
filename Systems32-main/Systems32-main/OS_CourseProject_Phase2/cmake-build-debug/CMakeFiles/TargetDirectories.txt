@@ -1,0 +1,3 @@
+D:/OS_CourseProject_Phase2/cmake-build-debug/CMakeFiles/OS_CourseProject_Phase2.dir
+D:/OS_CourseProject_Phase2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OS_CourseProject_Phase2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
